@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Ajax Techz">
+  <img src="https://drscdn.500px.org/photo/1047884902/m%3D900/v2?sig=768bbc5fd412765d4d5c8519673522085aef1f6f5b5d79ceed172bb05c4e1b64" alt="CinematoBugTV">
 </p>
 <h1 align="center">
   <b>OM 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
