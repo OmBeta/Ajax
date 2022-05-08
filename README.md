@@ -5,7 +5,7 @@
   <b>OM 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
 </h1>
 <a href="https://www.youtube.com/channel/UCX1CbQN_Pczcawfpz-raO1g">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
+  <img src="https://drscdn.500px.org/photo/1047884902/m%3D900/v2?sig=768bbc5fd412765d4d5c8519673522085aef1f6f5b5d79ceed172bb05c4e1b64" width="150">
 
 [![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
 [![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax/fork)
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011) || [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦](https://www.instagram.com/_strange_friend_/)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/MWUpdatez)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Om](https://www.youtube.com/channel/UCX1CbQN_Pczcawfpz-raO1g) || [Youtube](https://www.youtube.com/channel/UCX1CbQN_Pczcawfpz-raO1g)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌RA 𝐔𝐩loads](https://t.me/MRAUPLOADS)
