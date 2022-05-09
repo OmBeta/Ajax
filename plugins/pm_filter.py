@@ -396,16 +396,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('⚚ 🅰🅳🅳 🅼🅴 🆃🅾 🆈🅾🆄🆁 🅶🆁🅾🆄🅿 ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+AMHw_K1wvOM3MTU9'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 𝕮𝖍𝖆𝖓𝖓𝖊𝖑 💠', url='https://t.me/moviesrequestaccepted'),
+            InlineKeyboardButton('💠 𝖀𝖕𝖉𝖆𝖙𝖊𝖘 💠', url='https://t.me/MRAUPLOADS')
             ],[      
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/Aadhi011'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('♻️🅷🅴🅻🅿 ♻️', callback_data='help'),
+            InlineKeyboardButton('🅲🅾🅽🆃🅰🅲🆃 🅼🅴', url='https://t.me/Om56577'),
+            InlineKeyboardButton('♻️ 🅰🅱🅾🆄🆃 ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
+            InlineKeyboardButton('▀▄▀▄▀▄🎀𝒮𝒰𝐵𝒮𝒞𝑅𝐼𝐵𝐸🎀▄▀▄▀▄▀', url='https://www.youtube.com/channel/UCX1CbQN_Pczcawfpz-raO1g')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await query.message.edit_text(
